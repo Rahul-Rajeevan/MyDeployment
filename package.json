@@ -1,0 +1,14 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Rahul-Rajeevan.github.io/MyDeployment",
+
+  "scripts": {
+  "deploy": "npm run build && gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
